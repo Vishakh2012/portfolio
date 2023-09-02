@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "id" : 0,
+            "title"  : "WebScope",
+            "project_desc" : "This is a firefox extension that tells you about the reading time and the number of external links in a web page",
+            "image_location" : ""
+        },
+        {
+            "id" : 1,
+            "title" : "Ed Sheeran song generator",
+            "project_desc" : "This is a LSTM based model that has been trained on Ed Sheeran songs that ",
+            "image_location" : ""
+        },
+        {
+            "id" : 2,
+            "title" : "fl2do",
+            "project_desc" : "",
+            "image_location" : ""
+        }
+    ] 
+}
