@@ -12,7 +12,7 @@ interface cardinfo
     link : string;
 
 }
-const CardExpanded:React.FC<cardinfo> = ({title,desc,link}) => {
+const CardExpanded:React.FC<cardinfo> = ({link}) => {
     return ( 
         
 
