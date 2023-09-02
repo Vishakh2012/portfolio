@@ -3,7 +3,7 @@ import { useState } from "react";
 import { TbVip } from "react-icons/tb";
 import {TfiMenu} from "react-icons/tfi"
 
-import { Link } from "react-router-dom";
+
 const Navbar = (): JSX.Element => {
   const [open, setOpen] = useState<boolean>(false)
   return (

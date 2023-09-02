@@ -11,7 +11,7 @@ interface cardinfo
     id : string;
 
 }
-const  Card: React.FC<cardinfo> = ({title,desc,link,id}):JSX.Element => {
+const  Card: React.FC<cardinfo> = ({title,link,id}):JSX.Element => {
     const [isSelected, setIsSelected] = useState<boolean>(false)
     return (  
       <div >
